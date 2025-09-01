@@ -17,7 +17,7 @@ const team = [
 
 const drivers = [
   { id: 1, name: "leclerc", team: "ferrari" },
-  { id: 2, name: "hamilton", team: "ferrari" },
+  { id: 2, name: "luis ramilton", team: "uno" },
   { id: 3, name: "verstappen", team: "red bull" },
 ];
 
